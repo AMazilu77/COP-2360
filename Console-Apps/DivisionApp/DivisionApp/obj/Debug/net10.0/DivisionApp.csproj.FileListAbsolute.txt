@@ -1,0 +1,15 @@
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/bin/Debug/net10.0/DivisionApp
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/bin/Debug/net10.0/DivisionApp.deps.json
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/bin/Debug/net10.0/DivisionApp.runtimeconfig.json
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/bin/Debug/net10.0/DivisionApp.dll
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/bin/Debug/net10.0/DivisionApp.pdb
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/obj/Debug/net10.0/DivisionApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/obj/Debug/net10.0/DivisionApp.AssemblyInfoInputs.cache
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/obj/Debug/net10.0/DivisionApp.AssemblyInfo.cs
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/obj/Debug/net10.0/DivisionApp.csproj.CoreCompileInputs.cache
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/obj/Debug/net10.0/DivisionApp.sourcelink.json
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/obj/Debug/net10.0/DivisionApp.dll
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/obj/Debug/net10.0/refint/DivisionApp.dll
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/obj/Debug/net10.0/DivisionApp.pdb
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/obj/Debug/net10.0/DivisionApp.genruntimeconfig.cache
+/Users/admin/InternalHD-Documents/int-Education/Palm Beach State/Classes/C#-Programming/Console-Apps/DivisionApp/DivisionApp/obj/Debug/net10.0/ref/DivisionApp.dll
